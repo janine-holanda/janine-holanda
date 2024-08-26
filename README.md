@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Janine
 - 🚀 I’m interested in technology to solve real-world problems
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning HTML & CSS & JavaScript
 - 💻 I’m looking to transition toward a Software Engineering role
 - 📫 How to reach me janine.holanda@gmail.com
 - 💁🏽‍♀️ Pronouns: She/Her
