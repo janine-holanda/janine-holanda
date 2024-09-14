@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Janine
 - 🚀 I’m interested in technology to solve real-world problems
-- 🌱 I’m currently learning HTML & CSS & JavaScript
+- 🌱 I’m currently learning HTML & CSS & JavaScript & React
 - 💻 I’m looking to transition toward a Software Engineering role
-- 📫 How to reach me janine.holanda@gmail.com
+- 📫 How to reach me janine.holanda@gmail.com / https://www.linkedin.com/in/janineholanda/
 - 💁🏽‍♀️ Pronouns: She/Her
 - ⚡ Fun fact: I like adventures that take me out of my comfort zone. 🥊🎮🎨🧩🛴🛶🏕️🗺️🎢
 
