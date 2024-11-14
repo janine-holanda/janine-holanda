@@ -19,8 +19,6 @@
 
 <h4>💻 Please refer to my repositories to see some of my work and skills</h4>
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=janine-holanda&theme=neon&line_height=40&hide=css"/> </a>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janine-holanda&layout=compact&theme=neon)
 
 <h2>Tech Stack / Skills</h2>
