@@ -1,7 +1,7 @@
 - 👋 Hello World! I’m Janine.
 - 🚀 I’m interested in technology to solve real-world problems.
 - 📚 I've learned HTML | CSS | SASS | JavaScript | React | Node.js | REST API | MySQL.
-- 🎯 I’m currently focusing on mastering my JavaScript/React skills. 
+- 🎯 I’m currently focusing on mastering my JavaScript / React skills. 
 - 💻 I’m looking to transition towards a Software Engineering | FrontEnd Developer role.
 - 💁🏽‍♀️ Pronouns: She/Her.
 - 📖 I'm reading "The Magic of Thinking Big".
