@@ -3,7 +3,7 @@
 - 📚 I've learned HTML | CSS | SASS | JavaScript | React | Node.js | REST API | MySQL.
 - 🎯 I’m currently focusing on mastering my JavaScript/React skills. 
 - 💻 I’m looking to transition towards a Software Engineering | FrontEnd Developer role.
-- 📫 How to reach me: janine.holanda@gmail.com | <a href="https://www.linkedin.com/in/janineholanda ">
+- 📫 How to reach me: janine.holanda@gmail.com  |  <a href="https://www.linkedin.com/in/janineholanda ">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 </a>
@@ -13,10 +13,6 @@
 
 <div align="center">
 
-
-<a href="mailto:janine.holanda@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 <!-- <a href="http://camilabarros.ca/">
   <img src="https://img.shields.io/badge/CV/Resume-darkgreen?style=for-the-badge&logo=cv/resume&logoColor=white" alt="CV/Resume Badge"/>
 </a> -->
