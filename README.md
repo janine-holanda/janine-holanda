@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/CV/Resume-darkgreen?style=for-the-badge&logo=cv/resume&logoColor=white" alt="CV/Resume Badge"/>
 </a> -->
 
-<h4>💻 Please refer to my repositories to see some of my work and skills</h4>
+<h4> 👀 Take a sneak peek at my repositories to see my projects</h4>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janine-holanda&layout=compact&theme=neon)
 
