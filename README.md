@@ -6,6 +6,7 @@
 - 📫 How to reach me: janine.holanda@gmail.com  |  <a href="https://www.linkedin.com/in/janineholanda ">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
+
 - 💁🏽‍♀️ Pronouns: She/Her.
 - 📖 I'm reading "The Magic of Thinking Big".
 - ⚡ Fun fact: I like adventures that take me out of my comfort zone. 🥊 🎮 🎨 🧩 🛴 🛶 🏕️ 🗺️ 🎢
