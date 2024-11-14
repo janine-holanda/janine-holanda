@@ -21,6 +21,8 @@
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=janine-holanda&theme=neon&line_height=40&hide=css"/> </a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janine-holanda&show_icons=true)
+
 <h2>Tech Stack / Skills</h2>
 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
