@@ -10,10 +10,12 @@
 
 <div align="center">
 
+<h4>📫 How to reach me</h4>
+
 <a href="https://www.linkedin.com/in/janineholanda ">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="janine.holanda@gmail.com">
+<a href="mailto:janine.holanda@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <!-- <a href="http://camilabarros.ca/">
