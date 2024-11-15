@@ -4,7 +4,7 @@
 - 🎯 I’m currently focusing on mastering my JavaScript / React skills. 
 - 💻 I’m looking to transition towards a Software Engineering | FrontEnd Developer role.
 - 💁🏽‍♀️ Pronouns: She/Her.
-- 📖 I'm reading "The Magic of Thinking Big".
+- 📖 I'm reading "The Magic of Thinking Big" by David Schwartz .
 - ⚡ Fun fact: I like adventures that take me out of my comfort zone. 🥊 🎮 🎨 🧩 🛴 🛶 🏕️ 🗺️ 🎢
 
 <div align="center">
